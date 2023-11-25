@@ -10,18 +10,18 @@ public class Assignment_2_3 {
 
 	}
 
-	public static firstFunction(){
+	public static int firstFunction(){
 		int a= 10;
 		return a;
 	}
 	
-	public static secondFunction(){
-		int b=20;
+	public static int secondFunction(){
+		int b= 20;
 		return b;
 	}	
 	public static void compareFunction() {
 
-		if(firstFunction()<secondFunction()) {
+		if(firstFunction() < secondFunction()) {
 			System.out.println("firstFunction is smaller than the second function");
 		} else{
 			System.out.println("secondFucnton is bigger tha n the first function" );
