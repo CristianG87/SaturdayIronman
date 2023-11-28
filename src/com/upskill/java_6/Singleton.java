@@ -29,7 +29,10 @@ public class Singleton {
 	}
   
 // changes for Git Pull request practice
-
+// git changes using eclipse
+	
+	/// devReviewClass
+	
   protected static void demo4() {
 System.out.println ("Demo IIII method for singletone calss");
 }
